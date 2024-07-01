@@ -1,4 +1,4 @@
-  # do campo-a-cidade-colhendo-oportunidade-
+  # do campo-a-cidade-
 Este ##é o projeto de um jogo dBusca da Cidade Perdida 🧭
 e aventura baseado em texto, onde a pessoa usuária toma decisões que influenciam o rumo da história. O objetivo é encontrar uma cidade pEmerdida seguindo pistas em uma carta antiga.
 
