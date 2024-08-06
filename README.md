@@ -5,4 +5,4 @@
  Tirada do site Tripadvisor;
 
  #img download.jpeg
- 
+ Tirada do site Bem Paraná
